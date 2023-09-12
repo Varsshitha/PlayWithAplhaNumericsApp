@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4A07AAC62AB02725002E0821 /* PlayWithAlphaNumVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A07AAC52AB02725002E0821 /* PlayWithAlphaNumVC.swift */; };
 		4A5876812AAF9F5500BD4000 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A5876802AAF9F5500BD4000 /* AppDelegate.swift */; };
 		4A5876832AAF9F5500BD4000 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A5876822AAF9F5500BD4000 /* SceneDelegate.swift */; };
 		4A5876852AAF9F5500BD4000 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A5876842AAF9F5500BD4000 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4A07AAC52AB02725002E0821 /* PlayWithAlphaNumVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayWithAlphaNumVC.swift; sourceTree = "<group>"; };
 		4A58767D2AAF9F5500BD4000 /* PlayWithAplhaNumericsApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PlayWithAplhaNumericsApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4A5876802AAF9F5500BD4000 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4A5876822AAF9F5500BD4000 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				4A5876822AAF9F5500BD4000 /* SceneDelegate.swift */,
 				4A5876842AAF9F5500BD4000 /* ViewController.swift */,
 				4A5876862AAF9F5500BD4000 /* Main.storyboard */,
+				4A07AAC52AB02725002E0821 /* PlayWithAlphaNumVC.swift */,
 				4A5876892AAF9F5900BD4000 /* Assets.xcassets */,
 				4A58768B2AAF9F5900BD4000 /* LaunchScreen.storyboard */,
 				4A58768E2AAF9F5900BD4000 /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4A07AAC62AB02725002E0821 /* PlayWithAlphaNumVC.swift in Sources */,
 				4A5876852AAF9F5500BD4000 /* ViewController.swift in Sources */,
 				4A5876812AAF9F5500BD4000 /* AppDelegate.swift in Sources */,
 				4A5876832AAF9F5500BD4000 /* SceneDelegate.swift in Sources */,
